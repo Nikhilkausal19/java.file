@@ -9,8 +9,9 @@ class Addition
 	x=obj.nextDouble(); 
 	y=obj.nextDouble();
 	z=x+y;
-	System.out.println("x="+x);\
+	System.out.println("x="+x);
 	System.out.println("y="+y);
 	System.out.println("x+y="+z);
+	System.out.println("Exit");
 	}
 }
